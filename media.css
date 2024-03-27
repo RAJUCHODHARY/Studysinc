@@ -1,0 +1,36 @@
+
+@media screen and (max-width: 992px) {
+    #navbaar{
+        display: none !important;
+        
+    }
+    .header{
+        width: unset !important;
+        flex-direction: column !important;
+        margin: auto;
+    }
+    .header1,.header2{
+        
+        width: unset !important;
+        height: unset !important;
+    }
+    .our h1{
+        font-size: 30px;
+    }
+    .trust,.our21,.about2,.updete1,.updete2{  
+        width: unset !important;
+    }
+    .about2{
+        margin: 30px 0;
+    }
+    .trust1 ,.our2 ,.about1,.updete,.futtor{
+        flex-direction: column;
+        width: unset !important;
+    }
+    
+    .futtor{
+        text-align: center;
+    }
+   
+  }
+  
